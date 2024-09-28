@@ -1,2 +1,2 @@
 # Tryhackme
-I will share any code I create or significantly change on this repo
+I will share any thm code I create on this repo
